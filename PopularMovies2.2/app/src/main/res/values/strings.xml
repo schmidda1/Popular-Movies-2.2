@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PopularMovies2</string>
+    <string-array name="movie_files">
+        <item>movie1</item>
+        <item>movie2</item>
+        <item>movie3</item>
+        <item>movie4</item>
+    </string-array>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="detail_error_message">An error has occurred</string>
+    <string name="error_message">An error has occurred.</string>
+    <string name="original_title_str">Original Title:</string>
+    <string name="plot_synopsis_str">Plot Synopsis:</string>
+    <string name="vote_average_str">Vote Average:</string>
+    <string name="release_date_str">Release Date:</string>
+    <string name="popular_title">Popular Movies</string>
+    <string name="top_rated_title">Top Rated Movies</string>
+    <string name="favorites_title">Favorite Movies</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="back_to_main">BACK</string>
+    <string name="favorites_empty">Favorites are empty</string>
+    <string name="rt_error_msg">There was an Error processing reviews/trailers</string>
+    <string name="movie_trailers">Movie Trailers</string>
+    <string name="movie_reviews">Movie Reviews</string>
+    <string name="button_rt_label">To Reviews and Trailers</string>
+    <string name="favorite_btn_label_save">Save As Favorite</string>
+    <string name="favorite_btn_label_remove">Remove As Favorite</string>
+
+</resources>
